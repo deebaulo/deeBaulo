@@ -1,15 +1,15 @@
 ![Web Developer](https://github.com/deebaulo/deebaulo/blob/main/WEb%20design%202.PNG)
 
-## Hi there! I'm Dee Baulo 👋
- Web Developer
+                      												## Hi there! I'm Dee Baulo 👋
+ 														### A passionate Frontend Web Developer from Philippines
 
-I am a Wordpress and Web developer based in the Philippines. I make Wordpress websites and build webpages using frontend web development. I work on all sorts of websites, from online stores to company sites and portfolios. And currently, I am open to new projects. 
+
 
 ### Skills: JS / HTML / CSS / Wordpress / Photo Editing
 
-- 🔭 I’m currently working on Deebley Website Solution 
-- 🌱 I’m currently learning JS/ AngularJS / ReactJS / TailWindCSS 
-- 💬 Ask me about Websites 
+- 🔭 I’m currently working on ** Deebley Website Solution ** 
+- 🌱 I’m currently learning ** JS / AngularJS / ReactJS / TailWindCSS **
+- 💬 Ask me about ** Building Websites **  
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: I just love coding.  
 

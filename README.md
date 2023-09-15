@@ -1,17 +1,14 @@
 ![Web Developer](https://github.com/deebaulo/deebaulo/blob/main/WEb%20design%202.PNG)
 
-                      												## Hi there! I'm Dee Baulo 👋
- 														### A passionate Frontend Web Developer from Philippines
-
-
-
+## Hi there! I'm Dee Baulo 👋
+### A passionate Frontend Web Developer from Philippines
 ### Skills: JS / HTML / CSS / Wordpress / Photo Editing
 
-- 🔭 I’m currently working on ** Deebley Website Solution ** 
-- 🌱 I’m currently learning ** JS / AngularJS / ReactJS / TailWindCSS **
-- 💬 Ask me about ** Building Websites **  
+- 🔭 I’m currently working on **Deebley Website Solution** 
+- 🌱 I’m currently learning **JS / AngularJS / ReactJS / TailWindCSS**
+- 💬 Ask me about **Building Websites**  
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I just love coding.  
+- ⚡ Fun fact: **I love coding.**  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/deebaulo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/diyanarah-baulo-758513126//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100077465213924)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://deebaulo.lctpro.com)  

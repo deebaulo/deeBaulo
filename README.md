@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **deebaulo@gmail.com**
 
-- ⚡ Fun fact **I love coding.**
+- ⚡ Fun fact **I don't know how to cook but I know how to code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

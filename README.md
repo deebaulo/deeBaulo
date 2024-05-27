@@ -1,18 +1,18 @@
 
 <img align=“center” alt=“Coding” width=“200” src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <h1 align="center">Hi 👋, I'm Dee Baulo</h1>
-<h3 align="center">A Passionate Frontend Web Developer from Philippines.</h3>
+<h3 align="center">A Passionate Frontend Web Developer from the Philippines.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deebaulo&label=Profile%20views&color=0e75b6&style=flat" alt="deebaulo" /> </p>
 
-- 🔭 I’m currently working on **Deebley Websites Solution**
+- 🔭 I’m currently working on **Deebley Website Solutions** (https://deebley.com)
 
 - 🌱 I’m currently learning **JS/ReactJS/AngularJS/TailWindCSS**
 
-- 👨‍💻 All of my projects are available at [https://deebaulo.lctpro.com](https://deebaulo.lctpro.com)
+- 👨‍💻 All of my projects are available at [https://deebaulo.com](https://deebaulo.com)
 
-- 💬 Ask me about **Website Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **deebaulo@gmail.com**
 
